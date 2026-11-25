@@ -1,0 +1,14 @@
+# dependências e build
+node_modules
+.next
+out
+
+# certificados locais (next dev --experimental-https)
+certificates
+
+# variáveis de ambiente
+.env*
+
+# Vercel e logs
+.vercel
+*.log
