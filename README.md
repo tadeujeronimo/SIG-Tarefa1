@@ -59,7 +59,7 @@ package.json  dependências e scripts
 
 ## Créditos
 
-- Estrutura da atividade baseada na aula SIG#04.1 – GPS com Next.js, do professor José Rui.
+- Estrutura da atividade baseada na aula **SIG#04.1 – GPS com Next.js**, do professor José Rui.
 - Mapa: contribuidores do **OpenStreetMap**, com a atribuição exibida no próprio mapa.
 - Referência da API: [Geolocation API](https://developer.mozilla.org/pt-BR/docs/Web/API/Geolocation_API) (MDN Web Docs).
 
